@@ -4,7 +4,22 @@ Electrical Engineering at NSUT, graduating 2027. I build analytics and data tool
 
 NISM Research Analyst certified, which is where most of the finance-flavoured projects come from. Currently looking at analytics, data and product roles.
 
-**Stack:** SQL (SQL Server, Postgres) · Python (pandas, scikit-learn) · FastAPI · Power BI · PySpark · C++
+### Skills
+
+**Programming & data**
+SQL (SQL Server, PostgreSQL) · Python (pandas, NumPy, scikit-learn) · PySpark · C++ · Data Structures & Algorithms
+
+**Analysis & statistics**
+Data analysis · Statistics · Hypothesis testing · A/B testing · Machine learning (regression, ensembles, walk-forward validation)
+
+**Building & shipping**
+FastAPI · SQLAlchemy · Jinja2 + HTMX · Chart.js · Supabase · Vercel and Render deployments
+
+**Tools**
+Power BI · Advanced Excel · Jira (Agile/Scrum) · Notion · PowerPoint for stakeholder decks · AI productivity tooling
+
+**Working with people**
+Team collaboration · Problem solving · Strategic thinking · Business acumen · Presentation and communication skills
 
 ---
 
