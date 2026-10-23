@@ -18,7 +18,7 @@ NISM Research Analyst certified, which is where most of the finance-flavoured pr
 
 ### Skills
 
-<img src="./assets/tech-stack.svg" alt="Tech stack: SQL Server, PostgreSQL, Python, pandas, scikit-learn, PySpark, C++, FastAPI, SQLAlchemy, JavaScript, Chart.js, Supabase, Power BI, and Excel" width="100%" />
+<img src="./assets/tech-stack-sql.svg" alt="Tech stack: SQL, SQL Server, PostgreSQL, Python, pandas, scikit-learn, PySpark, C++, FastAPI, SQLAlchemy, Chart.js, Supabase, Power BI, and Excel" width="100%" />
 
 | Focus | Stack and methods |
 | :--- | :--- |
