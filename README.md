@@ -85,6 +85,12 @@ Vice President at the Finance & Economics Society, NSUT. Ran finance sessions fo
 
 ### GitHub activity
 
+| Repositories | Contributions |
+| :---: | :---: |
+| **17** public + private | **160** public + private, in the last year |
+
+<sub>Snapshot from 23 October 2026. GitHub's contribution total changes over time.</sub>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhnxvj&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;rank_icon=github" alt="Abhinav's GitHub stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhnxvj&amp;layout=compact&amp;hide_border=true&amp;theme=transparent" alt="Languages in Abhinav's public repositories" height="170" />
