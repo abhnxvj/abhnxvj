@@ -10,7 +10,7 @@ NISM Research Analyst certified, which is where most of the finance-flavoured pr
 
 ### Causa: Automated KPI Diagnostic System
 
-[Repo](https://github.com/abhnxvj/causa-kpi-diagnostics)
+[Repo](https://github.com/abhnxvj/automated_kpi_diagnostic_system_fastapi_sql_python)
 
 Upload a sales CSV and it investigates why revenue moved, rather than charting that it did. Change detection runs a Welch z-test across daily values instead of a fixed percentage threshold, so a 12% swing on 30 orders is treated as noise while the same swing on 30,000 orders gets flagged.
 
@@ -20,7 +20,7 @@ FastAPI, PostgreSQL, Jinja2 and HTMX. The LLM only maps messy column names and w
 
 ### IPO Listing Gain Predictor
 
-[Repo](https://github.com/abhnxvj/ipo-listing-gain-predictor) · [Live](https://ipo-listing-gain-predictor.vercel.app)
+[Repo](https://github.com/abhnxvj/ipo-listing-gain-predictor) · [Live](https://lspredict.onrender.com/)
 
 Predicts listing-day gain % for Indian mainboard IPOs using only pre-listing signals: grey market premium, subscription numbers, and where the Nifty was sitting.
 
