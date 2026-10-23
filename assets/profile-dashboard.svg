@@ -1,58 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="338" viewBox="0 0 1200 338" role="img" aria-labelledby="title desc">
   <title id="title">Abhinav Jain at a glance</title>
-  <desc id="desc">17 repositories, public and private. 160 contributions in the last year, public and private. Skills across data systems, analysis, and product delivery.</desc>
+  <desc id="desc">17 repositories and 160 contributions in the last year, both public and private. Focus areas: data systems, applied machine learning, and product engineering.</desc>
   <defs>
-    <linearGradient id="background" x2="1" y2="1">
-      <stop stop-color="#0a1724"/>
-      <stop offset="1" stop-color="#112d42"/>
-    </linearGradient>
-    <linearGradient id="highlight" x2="1">
-      <stop stop-color="#4cddc5"/>
-      <stop offset="1" stop-color="#80a7ff"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#c7e4f3" stroke-opacity=".05"/>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#dedee0" stroke-width="1"/>
     </pattern>
   </defs>
-  <rect width="1200" height="430" rx="20" fill="url(#background)"/>
-  <rect width="1200" height="430" rx="20" fill="url(#grid)"/>
-  <text x="40" y="52" fill="#7fe3d5" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2">PROFILE / SYSTEM OVERVIEW</text>
-  <text x="1050" y="52" fill="#9ab4c8" font-family="Arial, Helvetica, sans-serif" font-size="14">OCT 2026</text>
-
-  <rect x="40" y="80" width="340" height="150" rx="16" fill="#162b3d" stroke="#345369"/>
-  <text x="65" y="151" fill="#f7fbff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">17</text>
-  <text x="65" y="184" fill="#d9e9f3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">repositories</text>
-  <text x="65" y="208" fill="#9fbece" font-family="Arial, Helvetica, sans-serif" font-size="15">(public + private)</text>
-
-  <rect x="400" y="80" width="340" height="150" rx="16" fill="#162b3d" stroke="#345369"/>
-  <text x="425" y="151" fill="#f7fbff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">160</text>
-  <text x="425" y="184" fill="#d9e9f3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">contributions / last year</text>
-  <text x="425" y="208" fill="#9fbece" font-family="Arial, Helvetica, sans-serif" font-size="15">(public + private)</text>
-
-  <rect x="760" y="80" width="400" height="150" rx="16" fill="#162b3d" stroke="#345369"/>
-  <text x="785" y="114" fill="#7fe3d5" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">FOCUS</text>
-  <text x="785" y="150" fill="#f7fbff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Data systems</text>
-  <text x="785" y="180" fill="#f7fbff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Applied ML</text>
-  <text x="785" y="210" fill="#f7fbff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Product engineering</text>
-
-  <text x="40" y="278" fill="#a9c8d6" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">FROM DATA TO DECISIONS</text>
-  <path d="M190 340 H1020" stroke="url(#highlight)" stroke-width="3"/>
-  <g fill="#68dccc" stroke="#0d2334" stroke-width="5">
-    <circle cx="190" cy="340" r="10"/>
-    <circle cx="466" cy="340" r="10"/>
-    <circle cx="743" cy="340" r="10"/>
-    <circle cx="1020" cy="340" r="10"/>
-  </g>
-  <g fill="#eff8ff" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" text-anchor="middle">
-    <text x="190" y="322">DATA</text>
-    <text x="466" y="322">ANALYSIS</text>
-    <text x="743" y="322">EVIDENCE</text>
-    <text x="1020" y="322">PRODUCT</text>
-  </g>
-  <g fill="#a7c3d2" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle">
-    <text x="190" y="377">SQL · Python</text>
-    <text x="466" y="377">Statistics · ML</text>
-    <text x="743" y="377">Validated results</text>
-    <text x="1020" y="377">APIs · Dashboards</text>
+  <rect width="1200" height="338" rx="12" fill="#f7f7f6"/>
+  <rect width="1200" height="338" rx="12" fill="url(#grid)"/>
+  <text x="50" y="55" fill="#626267" font-family="Courier New, monospace" font-size="14" letter-spacing="3">AT A GLANCE</text>
+  <rect x="50" y="82" width="530" height="135" rx="10" fill="#fbfbfa" stroke="#cbcbcc"/>
+  <rect x="620" y="82" width="530" height="135" rx="10" fill="#fbfbfa" stroke="#cbcbcc"/>
+  <text x="75" y="150" fill="#1d1d20" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="400">17</text>
+  <text x="75" y="180" fill="#343439" font-family="Arial, Helvetica, sans-serif" font-size="20">repositories <tspan fill="#727278">(public + private)</tspan></text>
+  <text x="645" y="150" fill="#1d1d20" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="400">160</text>
+  <text x="645" y="180" fill="#343439" font-family="Arial, Helvetica, sans-serif" font-size="20">contributions in the last year</text>
+  <text x="645" y="202" fill="#727278" font-family="Arial, Helvetica, sans-serif" font-size="16">(public + private)</text>
+  <path d="M50 268H1150" stroke="#aaaab0"/>
+  <g fill="#55555b" font-family="Courier New, monospace" font-size="14" letter-spacing="2">
+    <text x="50" y="294">DATA SYSTEMS</text>
+    <text x="425" y="294">APPLIED ML</text>
+    <text x="800" y="294">PRODUCT ENGINEERING</text>
   </g>
 </svg>
