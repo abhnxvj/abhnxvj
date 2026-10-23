@@ -1,25 +1,14 @@
-<div align="center">
+# Abhinav Jain
 
-<img src="./assets/profile-header.svg" alt="Abhinav Jain — data analytics, machine learning, and product engineering" width="100%" />
-
-[Explore repositories](https://github.com/abhnxvj?tab=repositories) · [Get in touch](mailto:abhinavjain0413@gmail.com)
-
-</div>
-
-<div align="center">
-  <a href="#at-a-glance">Overview</a> ·
-  <a href="#featured-projects">Projects</a> ·
-  <a href="#skills">Skills</a> ·
-  <a href="#connect">Connect</a>
-</div>
+Data analytics · Applied machine learning · Product engineering
 
 ## At a glance
 
-<img src="./assets/profile-dashboard.svg" alt="17 repositories (public + private), 160 contributions in the last year (public + private), and a data to product skills map" width="100%" />
+| Repositories | Contributions in the last year |
+| :--- | :--- |
+| **17** (public + private) | **160** (public + private) |
 
-**17 repositories (public + private)** · **160 contributions in the last year (public + private)**
-
-<sub>Activity snapshot: 23 October 2026. GitHub's native contribution calendar below the README shows the live count.</sub>
+<sub>Snapshot: 23 October 2026.</sub>
 
 ## About
 
@@ -41,8 +30,6 @@ NISM Research Analyst certified, which is where most of the finance-flavoured pr
 ---
 
 ## Featured projects
-
-<img src="./assets/project-map.svg" alt="Project map: SQL Data Warehouse, Causa, IPO Listing Gain Predictor, BrickOne, and OneSeat" width="100%" />
 
 ### Causa: Automated KPI Diagnostic System
 
