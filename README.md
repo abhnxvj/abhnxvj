@@ -2,8 +2,6 @@
 
 <img src="./assets/profile-header.svg" alt="Abhinav Jain — data analytics, machine learning, and product engineering" width="100%" />
 
-### Data analytics · Applied machine learning · Product engineering
-
 [Explore repositories](https://github.com/abhnxvj?tab=repositories) · [Get in touch](mailto:abhinavjain0413@gmail.com)
 
 </div>
@@ -30,6 +28,8 @@ Electrical Engineering at NSUT, graduating 2027. I build analytics and data tool
 NISM Research Analyst certified, which is where most of the finance-flavoured projects come from. Currently looking at analytics, data and product roles.
 
 ### Skills
+
+<img src="./assets/tech-stack.svg" alt="Tech stack: SQL Server, PostgreSQL, Python, pandas, scikit-learn, PySpark, C++, FastAPI, SQLAlchemy, JavaScript, Chart.js, Supabase, Power BI, and Excel" width="100%" />
 
 | Focus | Stack and methods |
 | :--- | :--- |
