@@ -43,7 +43,7 @@ FastAPI and PostgreSQL. The LLM only maps messy column names and writes the narr
 
 ### IPO Listing Gain Predictor
 
-[Repo](https://github.com/abhnxvj/ipo-listing-gain-predictor) · [Live](https://ipo-listing-gain-predictor.vercel.app)
+[Repo](https://github.com/abhnxvj/ipo-listing-gain-predictor) · [Live](https://lspredict.onrender.com/)
 
 Predicts listing-day gain % for Indian mainboard IPOs using only pre-listing signals: grey market premium, subscription numbers, and where the Nifty was sitting.
 
