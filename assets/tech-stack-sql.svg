@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="402" viewBox="0 0 1200 402" role="img" aria-labelledby="title desc">
+  <title id="title">Tech stack by section</title>
+  <desc id="desc">Programming: Python, SQL, C++. Data and ML: SQL Server, PostgreSQL, pandas, PySpark, scikit-learn. Backend and product: FastAPI, SQLAlchemy, Chart.js, Supabase. Reporting: Power BI and Excel.</desc>
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#303034" stroke-width="1"/></pattern></defs>
+  <rect width="1200" height="402" rx="12" fill="#101013"/>
+  <rect width="1200" height="402" rx="12" fill="url(#grid)"/>
+  <text x="42" y="50" fill="#dedee1" font-family="Arial, Helvetica, sans-serif" font-size="22">Tech stack</text>
+  <text x="42" y="109" fill="#bdbdc2" font-family="Arial, Helvetica, sans-serif" font-size="17">Programming</text>
+  <path d="M42 144H1158" stroke="#3b3b40"/>
+  <rect x="310" y="82" width="156" height="43" rx="4" fill="#1b1b1f" stroke="#45454a"/>
+  <rect x="310" y="82" width="4" height="43" rx="2" fill="#e6be55"/>
+  <text x="327" y="109" fill="#ededee" font-family="Arial, Helvetica, sans-serif" font-size="15">Python</text>
+  <rect x="479" y="82" width="156" height="43" rx="4" fill="#1b1b1f" stroke="#45454a"/>
+  <rect x="479" y="82" width="4" height="43" rx="2" fill="#dfc45f"/>
+  <text x="496" y="109" fill="#ededee" font-family="Arial, Helvetica, sans-serif" font-size="15">SQL</text>
+  <rect x="648" y="82" width="156" height="43" rx="4" fill="#1b1b1f" stroke="#45454a"/>
+  <rect x="648" y="82" width="4" height="43" rx="2" fill="#658fca"/>
+  <text x="665" y="109" fill="#ededee" font-family="Arial, Helvetica, sans-serif" font-size="15">C++</text>
+  <text x="42" y="187" fill="#bdbdc2" font-family="Arial, Helvetica, sans-serif" font-size="17">Data &amp; ML</text>
+  <path d="M42 222H1158" stroke="#3b3b40"/>
+  <rect x="310" y="160" width="156" height="43" rx="4" fill="#1b1b1f" stroke="#45454a"/>
+  <rect x="310" y="160" width="4" height="43" rx="2" fill="#d85651"/>
+  <text x="327" y="187" fill="#ededee" font-family="Arial, Helvetica, sans-serif" font-size="15">SQL Server</text>
+  <rect x="479" y="160" width="156" height="43" rx="4" fill="#1b1b1f" stroke="#45454a"/>
+  <rect x="479" y="160" width="4" height="43" rx="2" fill="#5d8bb7"/>
+  <text x="496" y="187" fill="#ededee" font-family="Arial, Helvetica, sans-serif" font-size="15">PostgreSQL</text>
+  <rect x="648" y="160" width="156" height="43" rx="4" fill="#1b1b1f" stroke="#45454a"/>
+  <rect x="648" y="160" width="4" height="43" rx="2" fill="#9279d6"/>
+  <text x="665" y="187" fill="#ededee" font-family="Arial, Helvetica, sans-serif" font-size="15">pandas</text>
+  <rect x="817" y="160" width="156" height="43" rx="4" fill="#1b1b1f" stroke="#45454a"/>
+  <rect x="817" y="160" width="4" height="43" rx="2" fill="#e68558"/>
+  <text x="834" y="187" fill="#ededee" font-family="Arial, Helvetica, sans-serif" font-size="15">PySpark</text>
+  <rect x="986" y="160" width="156" height="43" rx="4" fill="#1b1b1f" stroke="#45454a"/>
+  <rect x="986" y="160" width="4" height="43" rx="2" fill="#ed9a56"/>
+  <text x="1003" y="187" fill="#ededee" font-family="Arial, Helvetica, sans-serif" font-size="15">scikit-learn</text>
+  <text x="42" y="265" fill="#bdbdc2" font-family="Arial, Helvetica, sans-serif" font-size="17">Backend &amp; product</text>
+  <path d="M42 300H1158" stroke="#3b3b40"/>
+  <rect x="310" y="238" width="156" height="43" rx="4" fill="#1b1b1f" stroke="#45454a"/>
+  <rect x="310" y="238" width="4" height="43" rx="2" fill="#55bba8"/>
+  <text x="327" y="265" fill="#ededee" font-family="Arial, Helvetica, sans-serif" font-size="15">FastAPI</text>
+  <rect x="479" y="238" width="156" height="43" rx="4" fill="#1b1b1f" stroke="#45454a"/>
+  <rect x="479" y="238" width="4" height="43" rx="2" fill="#d86d62"/>
+  <text x="496" y="265" fill="#ededee" font-family="Arial, Helvetica, sans-serif" font-size="15">SQLAlchemy</text>
+  <rect x="648" y="238" width="156" height="43" rx="4" fill="#1b1b1f" stroke="#45454a"/>
+  <rect x="648" y="238" width="4" height="43" rx="2" fill="#e88a9d"/>
+  <text x="665" y="265" fill="#ededee" font-family="Arial, Helvetica, sans-serif" font-size="15">Chart.js</text>
+  <rect x="817" y="238" width="156" height="43" rx="4" fill="#1b1b1f" stroke="#45454a"/>
+  <rect x="817" y="238" width="4" height="43" rx="2" fill="#65bc8a"/>
+  <text x="834" y="265" fill="#ededee" font-family="Arial, Helvetica, sans-serif" font-size="15">Supabase</text>
+  <text x="42" y="343" fill="#bdbdc2" font-family="Arial, Helvetica, sans-serif" font-size="17">Reporting</text>
+  <path d="M42 378H1158" stroke="#3b3b40"/>
+  <rect x="310" y="316" width="156" height="43" rx="4" fill="#1b1b1f" stroke="#45454a"/>
+  <rect x="310" y="316" width="4" height="43" rx="2" fill="#e2c554"/>
+  <text x="327" y="343" fill="#ededee" font-family="Arial, Helvetica, sans-serif" font-size="15">Power BI</text>
+  <rect x="479" y="316" width="156" height="43" rx="4" fill="#1b1b1f" stroke="#45454a"/>
+  <rect x="479" y="316" width="4" height="43" rx="2" fill="#62b786"/>
+  <text x="496" y="343" fill="#ededee" font-family="Arial, Helvetica, sans-serif" font-size="15">Excel</text>
+</svg>
