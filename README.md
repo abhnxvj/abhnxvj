@@ -43,7 +43,7 @@ FastAPI and PostgreSQL. The LLM only maps messy column names and writes the narr
 
 ### IPO Listing Gain Predictor
 
-[Repo](https://github.com/abhnxvj/ipo-listing-gain-predictor)
+[Repo](https://github.com/abhnxvj/ipo-listing-gain-predictor) · [Live](https://ipo-listing-gain-predictor.vercel.app)
 
 Predicts listing-day gain % for Indian mainboard IPOs using only pre-listing signals: grey market premium, subscription numbers, and where the Nifty was sitting.
 
@@ -51,13 +51,13 @@ The honest part is the point of the project. A normal random train/test split sc
 
 ### BrickOne
 
-[Repo](https://github.com/abhnxvj/brickone-platform)
+[Repo](https://github.com/abhnxvj/brickone-platform) · [Live](https://brick-sigma.vercel.app)
 
 Home loan EMI, affordability, buy-vs-rent and investment analysis in one dashboard. Built for Indian buyers who get quoted an EMI by a bank and have no way to tell whether they can actually carry it.
 
 ### OneSeat
 
-[Repo](https://github.com/abhnxvj/oneseat)
+[Repo](https://github.com/abhnxvj/oneseat) · [Live](https://oneseat.vercel.app)
 
 JoSAA 2025 final-round closing ranks for every IIT, NIT, IIIT and GFTI, filterable by category, branch, and home-state quota. I built it because the official counselling PDFs are close to unusable when you are actually trying to fill choices.
 
