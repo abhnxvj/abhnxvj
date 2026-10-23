@@ -1,50 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Project map</title>
-  <desc id="desc">Five projects across data foundations, investigation, prediction, and decision tools: SQL Data Warehouse, Causa, IPO Listing Gain Predictor, BrickOne, and OneSeat.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Selected work</title>
+  <desc id="desc">Causa, IPO Listing Gain Predictor, BrickOne, OneSeat, and SQL Data Warehouse.</desc>
   <defs>
-    <linearGradient id="bg" x2="1" y2="1">
-      <stop stop-color="#071522"/>
-      <stop offset="1" stop-color="#16354a"/>
-    </linearGradient>
-    <linearGradient id="line" x2="1">
-      <stop stop-color="#59dfc9"/>
-      <stop offset="1" stop-color="#91a6ff"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#303034" stroke-width="1"/>
+    </pattern>
   </defs>
-  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
-  <text x="42" y="49" fill="#74dfd0" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3">SELECTED WORK / PROJECT MAP</text>
-  <text x="42" y="80" fill="#f1f8ff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Systems that turn information into decisions</text>
-  <path d="M88 194 H1110" fill="none" stroke="url(#line)" stroke-width="3" stroke-dasharray="8 8" opacity=".75"/>
-  <g fill="#72e3d3" filter="url(#glow)">
-    <circle cx="126" cy="194" r="8"/>
-    <circle cx="355" cy="194" r="8"/>
-    <circle cx="584" cy="194" r="8"/>
-    <circle cx="813" cy="194" r="8"/>
-    <circle cx="1042" cy="194" r="8"/>
+  <rect width="1200" height="340" rx="12" fill="#101013"/>
+  <rect width="1200" height="340" rx="12" fill="url(#grid)"/>
+  <text x="52" y="53" fill="#d8c3a6" font-family="Courier New, monospace" font-size="14" letter-spacing="3">SELECTED WORK</text>
+  <text x="52" y="98" fill="#ededee" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400">Projects</text>
+  <path d="M52 121H1148" stroke="#424246"/>
+  <g fill="#8d8d92" font-family="Courier New, monospace" font-size="14">
+    <text x="52" y="164">01</text>
+    <text x="52" y="221">02</text>
+    <text x="52" y="278">03</text>
+    <text x="620" y="164">04</text>
+    <text x="620" y="221">05</text>
   </g>
-  <g fill="#142c3e" stroke="#426478">
-    <rect x="35" y="115" width="184" height="64" rx="12"/>
-    <rect x="264" y="209" width="184" height="64" rx="12"/>
-    <rect x="493" y="115" width="184" height="64" rx="12"/>
-    <rect x="722" y="209" width="184" height="64" rx="12"/>
-    <rect x="951" y="115" width="184" height="64" rx="12"/>
+  <g fill="#dedee1" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">
+    <text x="94" y="164">Causa</text>
+    <text x="94" y="221">IPO Listing Gain Predictor</text>
+    <text x="94" y="278">BrickOne</text>
+    <text x="662" y="164">OneSeat</text>
+    <text x="662" y="221">SQL Data Warehouse</text>
   </g>
-  <g fill="#f2f8fc" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle">
-    <text x="127" y="144">SQL Data</text><text x="127" y="164">Warehouse</text>
-    <text x="356" y="247">Causa</text>
-    <text x="585" y="144">IPO Listing Gain</text><text x="585" y="164">Predictor</text>
-    <text x="814" y="247">BrickOne</text>
-    <text x="1043" y="153">OneSeat</text>
+  <g fill="#929298" font-family="Arial, Helvetica, sans-serif" font-size="15">
+    <text x="400" y="164">KPI diagnostics</text>
+    <text x="400" y="221">Applied ML</text>
+    <text x="400" y="278">Finance tools</text>
+    <text x="990" y="164">Decision support</text>
+    <text x="990" y="221">Data engineering</text>
   </g>
-  <g fill="#a3c0d0" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle">
-    <text x="127" y="310">DATA FOUNDATION</text>
-    <text x="356" y="310">KPI INVESTIGATION</text>
-    <text x="585" y="310">PREDICTION</text>
-    <text x="814" y="310">FINANCE TOOLS</text>
-    <text x="1043" y="310">CHOICE SUPPORT</text>
+  <g stroke="#353539">
+    <path d="M52 181H580"/>
+    <path d="M52 238H580"/>
+    <path d="M620 181H1148"/>
+    <path d="M620 238H1148"/>
   </g>
 </svg>
